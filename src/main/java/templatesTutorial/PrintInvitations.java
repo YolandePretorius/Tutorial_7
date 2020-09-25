@@ -23,7 +23,7 @@ public class PrintInvitations {
 
 	}
 
-	private static void createVelocityfile(List<Person> list) throws IOException {
+	private static void createVelocityfile(List<Person>list) throws IOException {
 		
 		//FileWriter out = new FileWriter("invitations.txt");
 		
@@ -49,7 +49,7 @@ public class PrintInvitations {
 			FileInputStream fileInput = new FileInputStream(new File("friends.xml"));
 			XMLDecoder decoder = new XMLDecoder(new BufferedInputStream(fileInput));
 
-			List<Person> friendsList = (List<Person>) decoder.readObject(); // cast object read from file into person
+			List<Person> friendsList =  (List<Person>) decoder.readObject(); // cast object read from file into person
 			decoder.close();
 			fileInput.close();
 			return friendsList;

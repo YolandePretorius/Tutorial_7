@@ -1,4 +1,6 @@
-#for(friend in friendList)
+
+#foreach ($friend in $friendList)
+
 		To 
 		$friend.name $friend.FirstName
 		$friend.address
