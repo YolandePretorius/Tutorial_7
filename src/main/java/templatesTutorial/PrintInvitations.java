@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.StringWriter;
 import java.util.List;
 
 import org.apache.velocity.Template;
@@ -19,12 +20,26 @@ public class PrintInvitations {
 		List<Person> list = readFromXMLFileFunction();
 		
 		createVelocityfile(list);
+		createHTML(list);
 
 	}
 
-	private static void createVelocityfile(List<Person>list) throws IOException {
+	private static void createHTML(List<Person> list) throws IOException {
 		
-		//FileWriter out = new FileWriter("invitations.txt");
+			VelocityContext context = new VelocityContext();
+			
+			context.put("friendList",list);
+			
+			Template template = Velocity.getTemplate("letterHTML.vm");
+			FileWriter out = new FileWriter("invitations.html");		
+			
+			template.merge(context, out);
+			
+			out.close();
+		
+	}
+
+	private static void createVelocityfile(List<Person>list) throws IOException {
 		
 				VelocityContext context = new VelocityContext();
 		

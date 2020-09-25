@@ -1,23 +1,11 @@
 
 
 		To 
-		MacDonald Tim
-		templatesTutorial.Address@367e1a3d
+		Tim MacDonald
+		100 Main Street
+		Palmerston North
 		
-		Dear MacDonald
-		
-		I would like to invite you to a party this Saturday, 8PM at my place.
-		
-		Cheers, me
-		
-		----------------------------------------------------------------
-
-
-		To 
-		Smith Tom
-		templatesTutorial.Address@55ef06fb
-		
-		Dear Smith
+		Dear Tim
 		
 		I would like to invite you to a party this Saturday, 8PM at my place.
 		
@@ -27,23 +15,11 @@
 
 
 		To 
-		Turner Amy
-		templatesTutorial.Address@bd95eef7
+		Tom Smith
+		42 Cuba Street
+		Palmerston North
 		
-		Dear Turner
-		
-		I would like to invite you to a party this Saturday, 8PM at my place.
-		
-		Cheers, me
-		
-		----------------------------------------------------------------
-
-
-		To 
-		O'Brian Anne
-		templatesTutorial.Address@7b5b3eb4
-		
-		Dear O'Brian
+		Dear Tom
 		
 		I would like to invite you to a party this Saturday, 8PM at my place.
 		
@@ -53,23 +29,11 @@
 
 
 		To 
-		Miller Fred
-		templatesTutorial.Address@f685f5c5
+		Amy Turner
+		3 Worchester Street
+		Palmerston North
 		
-		Dear Miller
-		
-		I would like to invite you to a party this Saturday, 8PM at my place.
-		
-		Cheers, me
-		
-		----------------------------------------------------------------
-
-
-		To 
-		Meyer Max
-		templatesTutorial.Address@367dc3e6
-		
-		Dear Meyer
+		Dear Amy
 		
 		I would like to invite you to a party this Saturday, 8PM at my place.
 		
@@ -79,10 +43,11 @@
 
 
 		To 
-		Mueller Walter
-		templatesTutorial.Address@af99ffe
+		Anne O'Brian
+		4 Manchester Street
+		Feilding
 		
-		Dear Mueller
+		Dear Anne
 		
 		I would like to invite you to a party this Saturday, 8PM at my place.
 		
@@ -92,10 +57,11 @@
 
 
 		To 
-		Wang Kate
-		templatesTutorial.Address@3468af9c
+		Fred Miller
+		55 Salisbury Street
+		Ashhurst
 		
-		Dear Wang
+		Dear Fred
 		
 		I would like to invite you to a party this Saturday, 8PM at my place.
 		
@@ -103,4 +69,45 @@
 		
 		----------------------------------------------------------------
 
-	
+
+		To 
+		Max Meyer
+		77 Main Street
+		Palmerston North
+		
+		Dear Max
+		
+		I would like to invite you to a party this Saturday, 8PM at my place.
+		
+		Cheers, me
+		
+		----------------------------------------------------------------
+
+
+		To 
+		Walter Mueller
+		22 Cook Street
+		Palmerston North
+		
+		Dear Walter
+		
+		I would like to invite you to a party this Saturday, 8PM at my place.
+		
+		Cheers, me
+		
+		----------------------------------------------------------------
+
+
+		To 
+		Kate Wang
+		12 Albert Street
+		Palmerston North
+		
+		Dear Kate
+		
+		I would like to invite you to a party this Saturday, 8PM at my place.
+		
+		Cheers, me
+		
+		----------------------------------------------------------------
+

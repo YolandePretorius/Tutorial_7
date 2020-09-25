@@ -2,10 +2,11 @@
 #foreach ($friend in $friendList)
 
 		To 
-		$friend.name $friend.FirstName
-		$friend.address
+		$friend.firstName $friend.name
+		$friend.address.number $friend.address.street
+		$friend.address.town
 		
-		Dear $friend.name
+		Dear $friend.firstName
 		
 		I would like to invite you to a party this Saturday, 8PM at my place.
 		
@@ -14,4 +15,3 @@
 		----------------------------------------------------------------
 
 #end
-	

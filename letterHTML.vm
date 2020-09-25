@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+ <html>
+ 	<body>
+		#foreach ($friend in $friendList)
+		
+				To 
+				<br>$friend.firstName $friend.name</br>
+				$friend.address.number $friend.address.street
+				$friend.address.town</br>
+				
+				<br>Dear $friend.firstName</br>
+				
+				<br>I would like to invite you to a party this Saturday, 8PM at my place.<br>
+				
+				<br>Cheers, me</br>
+				
+			<br>	----------------------------------------------------------------</br>
+		</p>
+		#end
+	</body>
+</html>
