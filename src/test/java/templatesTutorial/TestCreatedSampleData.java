@@ -1,6 +1,5 @@
 package templatesTutorial;
 
-import static org.junit.Assert.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.beans.XMLDecoder;
@@ -9,7 +8,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.List;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class TestCreatedSampleData {
 
